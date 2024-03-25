@@ -39,4 +39,4 @@
 
 ![Скриншот 6](https://github.com/Wanderwille/scrinshot/blob/main/ansible-vector2.png)
 
-9. Файл README.md 
+9. Файл README.md : https://github.com/Wanderwille/ansible2/blob/main/src/README.md
